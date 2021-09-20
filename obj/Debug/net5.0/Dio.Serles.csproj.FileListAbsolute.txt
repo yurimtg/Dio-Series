@@ -1,0 +1,16 @@
+C:\Users\yurim\OneDrive\Desktop\Dio\dio.series\bin\Debug\net5.0\Dio.Serles.exe
+C:\Users\yurim\OneDrive\Desktop\Dio\dio.series\bin\Debug\net5.0\Dio.Serles.deps.json
+C:\Users\yurim\OneDrive\Desktop\Dio\dio.series\bin\Debug\net5.0\Dio.Serles.runtimeconfig.json
+C:\Users\yurim\OneDrive\Desktop\Dio\dio.series\bin\Debug\net5.0\Dio.Serles.runtimeconfig.dev.json
+C:\Users\yurim\OneDrive\Desktop\Dio\dio.series\bin\Debug\net5.0\Dio.Serles.dll
+C:\Users\yurim\OneDrive\Desktop\Dio\dio.series\bin\Debug\net5.0\ref\Dio.Serles.dll
+C:\Users\yurim\OneDrive\Desktop\Dio\dio.series\bin\Debug\net5.0\Dio.Serles.pdb
+C:\Users\yurim\OneDrive\Desktop\Dio\dio.series\obj\Debug\net5.0\Dio.Serles.csprojAssemblyReference.cache
+C:\Users\yurim\OneDrive\Desktop\Dio\dio.series\obj\Debug\net5.0\Dio.Serles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yurim\OneDrive\Desktop\Dio\dio.series\obj\Debug\net5.0\Dio.Serles.AssemblyInfoInputs.cache
+C:\Users\yurim\OneDrive\Desktop\Dio\dio.series\obj\Debug\net5.0\Dio.Serles.AssemblyInfo.cs
+C:\Users\yurim\OneDrive\Desktop\Dio\dio.series\obj\Debug\net5.0\Dio.Serles.csproj.CoreCompileInputs.cache
+C:\Users\yurim\OneDrive\Desktop\Dio\dio.series\obj\Debug\net5.0\Dio.Serles.dll
+C:\Users\yurim\OneDrive\Desktop\Dio\dio.series\obj\Debug\net5.0\ref\Dio.Serles.dll
+C:\Users\yurim\OneDrive\Desktop\Dio\dio.series\obj\Debug\net5.0\Dio.Serles.pdb
+C:\Users\yurim\OneDrive\Desktop\Dio\dio.series\obj\Debug\net5.0\Dio.Serles.genruntimeconfig.cache
